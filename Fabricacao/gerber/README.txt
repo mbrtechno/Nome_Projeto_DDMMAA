@@ -1,2 +1,2 @@
-# Nome_Projeto_DDMMAA
+# Teste
 Padrão de pastas para novos projetos
